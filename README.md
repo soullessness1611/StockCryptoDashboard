@@ -6,6 +6,11 @@ This project is a simple yet powerful dashboard that allows you to track stock a
 
 # 👉 Projects Detials:
 
+## Status
+
+![Status](https://img.shields.io/badge/status-active-success.svg)
+status: in progress development
+
 ## Files Structure
 
 ![File Structure](./images/image07.png)
