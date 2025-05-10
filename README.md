@@ -1,4 +1,4 @@
-# Stock and Crypto Currency Dashboar
+# Stock and Crypto Currency Dashboard
 
 Hello, fellow developers! 👋
 Welcome to my stock and Crypto Currency Dashboard project! 🚀
@@ -13,38 +13,38 @@ This project is a simple yet powerful dashboard that allows you to track stock a
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/000.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/000.png?raw=true" />
     </td>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/001.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/001.png?raw=true" />
     </td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/002.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/002.png?raw=true" />
     </td>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/003.png?raw=true" />
-    </td>
-  </tr>
-
-<tr>
-    <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/004.png?raw=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/005.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/003.png?raw=true" />
     </td>
   </tr>
 
 <tr>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/006.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/004.png?raw=true" />
     </td>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/007.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/005.png?raw=true" />
+    </td>
+  </tr>
+
+<tr>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/006.png?raw=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/blob/main/demo_images/007.png?raw=true" />
     </td>
   </tr>
 </table>
