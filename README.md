@@ -8,7 +8,7 @@ This project is a simple yet powerful dashboard that allows you to track stock a
 
 ## Status
 
-![Status](https://img.shields.io/badge/status-active-success.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg) <br>
 status: in progress development
 
 ## Files Structure
