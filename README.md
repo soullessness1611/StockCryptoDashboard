@@ -4,7 +4,7 @@ Hello, fellow developers! 👋
 Welcome to my stock and Crypto Currency Dashboard project! 🚀
 This project is a simple yet powerful dashboard that allows you to track stock and cryptocurrency prices including fundmental data, technical analysis, and news.
 
-# 👉 Project Detials:(https://img.shields.io/badge/Project%20Details-Stock%20and%20Crypto%20Currency%20Dashboard-blue.svg)
+# 👉 Project Detials:![icon](https://img.shields.io/badge/Project%20Details-Stock%20and%20Crypto%20Currency%20Dashboard-blue.svg)
 
 ## Status
 
