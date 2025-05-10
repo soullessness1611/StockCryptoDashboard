@@ -13,20 +13,38 @@ This project is a simple yet powerful dashboard that allows you to track stock a
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image02.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/000.png?raw=true" />
     </td>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image04.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/001.png?raw=true" />
     </td>
   </tr>
   <tr>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image05.png?raw=true"/>
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/002.png?raw=true" />
     </td>
     <td width="50%">
-      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image06.png?raw=true" />
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/003.png?raw=true" />
+    </td>
+  </tr>
+
+<tr>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/004.png?raw=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/005.png?raw=true" />
+    </td>
+  </tr>
+
+<tr>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/006.png?raw=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/StockCryptoDashboard/demo_images/007.png?raw=true" />
     </td>
   </tr>
 </table>
@@ -50,7 +68,3 @@ This project is a simple yet powerful dashboard that allows you to track stock a
 - [streamlit](https://streamlit.io/) (`uv add streamlit`)
 - [requests-html](https://requests.readthedocs.io/projects/requests-html/en/latest/) (`uv add requests-html`)
 - [ta](https://technical-analysis-library-in-python.readthedocs.io/en/latest) (`uv add ta`)
-
-## Screenshot
-
-![Dashboard](./demo_images/001.png)
